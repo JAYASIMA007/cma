@@ -26,7 +26,7 @@ public  class  DrawingExample  extends  JFrame  {
       //  Set  the  drawing  color  and  draw  a  circle 
       g2d.setColor(Color.BLUE); 
       g2d.drawOval(75, 75, 400, 400); 
-      21CS056  19CSB303-COMPOSING MOBILE APPS LABORATORY  6 
+      
       //  Dispose  of  the  Graphics2D  object 
       g2d.dispose();
       }
